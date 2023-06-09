@@ -1,0 +1,26 @@
+{
+  "name": "api-test-cypress",
+  "version": "1.0.0",
+  "description": "api-test-cypress-demo",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^12.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisnagilang/api-test-cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "krisna gilang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisnagilang/api-test-cypress/issues"
+  },
+  "homepage": "https://github.com/krisnagilang/api-test-cypress#readme"
+}
